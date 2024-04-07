@@ -1,0 +1,10 @@
+C:\Users\ipek\Desktop\projeninyeni hali\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\ipek\Desktop\projeninyeni hali\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.Form1.resources
+C:\Users\ipek\Desktop\projeninyeni hali\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.Properties.Resources.resources
+C:\Users\ipek\Desktop\projeninyeni hali\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.csproj.GenerateResource.cache
+C:\Users\ipek\Desktop\projeninyeni hali\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ipek\Desktop\projeninyeni hali\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.exe.config
+C:\Users\ipek\Desktop\projeninyeni hali\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.exe
+C:\Users\ipek\Desktop\projeninyeni hali\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.pdb
+C:\Users\ipek\Desktop\projeninyeni hali\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.exe
+C:\Users\ipek\Desktop\projeninyeni hali\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.pdb
